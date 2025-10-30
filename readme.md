@@ -1,5 +1,5 @@
 # Repository: HPO-SDSS-Matching-Code
-# Research Code for: High-Probability Observable Artificial Objects from Historical Sloan Digital Sky Survey Data
+# Research Code for: High-Recurrence Satellite Contamination in the Sloan Digital Sky Survey:Implications for Survey Planning
 
 ## 1. Overview and Purpose
 This repository contains the complete source code and configuration files used for the deep learning classification, orbital matching, and statistical analysis presented in the manuscript:   "High-Probability Observable Artificial Objects from Historical Sloan Digital Sky Survey Data"   ([2025]).
@@ -79,4 +79,5 @@ The data processing pipeline is complete upon running `object_match.py` (Phase 2
 ## 5. Contact and Licensing
 *   Contact:     Xiao Hengchu   (  xiaohengchu@Ynao.ac.cn  )
 *   License:   This repository is licensed under the   MIT License  . The full terms and conditions are detailed in the `LICENSE` file at the root of the repository.
+
 
